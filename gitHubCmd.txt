@@ -1,0 +1,6 @@
+1. git init -> initialize git in our foldier
+2. git add . -> . means all files
+3. git commit - m initial commit -
+4. git branch - M main ->  by default branch is master(remote) so we are converting
+5.  git remote add origin url(repo ki) -> remote repo project push
+6. git push - U main
